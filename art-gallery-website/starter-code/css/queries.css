@@ -80,7 +80,7 @@
   }
 
   .hero__image {
-    background-image: url("/assets/tablet/image-hero.jpg");
+    background-image: url("../assets/tablet/image-hero.jpg");
   }
 
   .darklogo {
@@ -147,7 +147,7 @@
     max-width: 100vw;
     height: 60rem;
     /* margin-block-end: 10rem; */
-    background-image: url("/assets/mobile/image-hero.jpg");
+    background-image: url("../assets/mobile/image-hero.jpg");
   }
 
   .dark-logom {
